@@ -12,16 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="cinemapricecalculator.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cinemapricecalculator.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="cinema-price-calculator.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cinema-price-calculator.iml">
           <provider selected="true" editor-type-id="text-editor">
@@ -64,11 +54,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="azure-pipelines.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/azure-pipelines.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -139,6 +139,7 @@
         <option value="$PROJECT_DIR$/src/main/java/domain/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/domain/OrderTests.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/azure-pipelines.yml" />
       </list>
     </option>
   </component>
@@ -201,6 +202,11 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cinemapricecalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cinemapricecalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -353,12 +359,12 @@
       <workItem from="1548956864321" duration="6126000" />
       <workItem from="1549007396899" duration="2640000" />
       <workItem from="1549369830333" duration="5649000" />
-      <workItem from="1549442037836" duration="1907000" />
+      <workItem from="1549442037836" duration="3141000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17918000" />
+    <option name="totallyTimeSpent" value="19152000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="6" width="917" height="885" extended-state="0" />
@@ -748,6 +754,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/azure-pipelines.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
           <folding />
         </state>
       </provider>
